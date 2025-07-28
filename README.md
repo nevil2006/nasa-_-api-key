@@ -18,7 +18,7 @@ A visually interactive space dashboard using NASA public APIs. Built with **Stre
 
 ## 📸 Preview
 
-![screenshot](assets/demo.png)  <!-- Replace with your image path -->
+![screenshot](assets/output.png)  <!-- Replace with your image path -->
 
 ## 🚀 Getting Started
 
