@@ -16,9 +16,11 @@ A visually interactive space dashboard using NASA public APIs. Built with **Stre
 - Visualizations using Plotly
 - Modular and extensible layout
 
-## 📸 Preview
+## 🚀 Output Preview
 
-![screenshot](output.png)  <!-- Replace with your image path -->
+Here is how the NASA Space Dashboard looks:
+
+![Dashboard Preview](ouput.png)
 
 ## 🚀 Getting Started
 
