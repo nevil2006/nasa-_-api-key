@@ -1,28 +1,28 @@
-# 🚀 NASA Space Dashboard 🌌
+#  NASA Space Dashboard 
 
 A visually interactive space dashboard using NASA public APIs. Built with **Streamlit**, **Plotly**, and **Python**, it showcases:
 
-- 🌠 Astronomy Picture of the Day (APOD)
-- 🪐 Asteroids Near Earth
-- 🛰️ ISS Tracker
-- 🔴 Mars Rover Photos
-- 🌤️ Space Weather (Coming Soon)
-- 🧠 NASA Patents Explorer (Planned)
+-  Astronomy Picture of the Day (APOD)
+-  Asteroids Near Earth
+-  ISS Tracker
+-  Mars Rover Photos
+-  Space Weather (Coming Soon)
+-  NASA Patents Explorer (Planned)
 
-## 📦 Features
+##  Features
 
 - Clean, tabbed Streamlit interface
 - Real-time data fetched from NASA APIs
 - Visualizations using Plotly
 - Modular and extensible layout
 
-## 🚀 Output Preview
+##  Output Preview
 
 Here is how the NASA Space Dashboard looks:
 
 ![Dashboard Preview](ouput.png)
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run space.py
 
-🔑 API Key Setup
+ API Key Setup
 Get your NASA API key from api.nasa.gov, then set it in the code like this:
 
 
@@ -56,7 +56,7 @@ API_KEY = "YOUR_KEY_HERE"
 
 Or use environment variables for better security.
 
-📁 Project Structure
+ Project Structure
 markdown
 
 nasa-dashboard/
@@ -65,7 +65,8 @@ nasa-dashboard/
 ├── README.md
 └── assets/
     └── demo.png
-🛠️ Built With
+##**Built With**
+
 Streamlit
 
 NASA APIs
